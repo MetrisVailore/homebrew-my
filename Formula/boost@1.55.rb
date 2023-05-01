@@ -27,7 +27,7 @@ end
 class Boost < Formula
   homepage 'http://www.boost.org'
   url 'https://downloads.sourceforge.net/project/boost/boost/1.55.0/boost_1_55_0.tar.bz2'
-  sha1 'cef9a0cc7084b1d639e06cd3bc34e4251524c840'
+  sha256 'fff00023dd79486d444c8e29922f4072e1d451fc5a4d2b6075852ead7f2b7b52'
   revision 2
 
   head 'https://github.com/boostorg/boost.git'
